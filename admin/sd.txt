@@ -1,0 +1,10 @@
+﻿Başlangıç: 13.04.2025 13:23
+
+http://localhost/Qr/ - hata oluştu - http://localhost/Qr/ sunucu klasörü oluşturulamadı.  Dosya adı, dizin adı veya birim etiketi sözdizimi hatalı.  
+menu.php - kullanıcı tarafından iptal edildi
+
+Dosya etkinliği tamamlanmadı. 1 dosya veya klasör tamamlanmadı.
+Hatalı dosyalar: 1
+http://localhost/Qr/
+
+Bitme Zamanı: 13.04.2025 13:23

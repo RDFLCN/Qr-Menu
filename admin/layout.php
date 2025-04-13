@@ -82,6 +82,9 @@ define('PAGE_FILE', isset($pageFile) ? $pageFile : 'dashboard.php');
   <a href="products.php">🛍 Ürünler</a>
   <a href="categories.php">📁 Kategoriler</a>
   <a href="tables.php">🪑 Masalar</a>
+  <a href="feedbacks.php">🎯 Geri Bildirimler</a>
+	
+
   <a href="logout.php">🚪 Çıkış</a>
 </div>
 
