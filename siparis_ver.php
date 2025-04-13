@@ -38,6 +38,18 @@ if (!$activeSession) {
 }
 
 
+// Sipariş öncesi aktif session var mı kontrol et
+$stmt = $pdo->prepare("SELECT id FROM table_sessions WHERE table_id = ? AND ended_at IS NULL");
+$stmt->execute([$table_id]);
+$activeSession = $stmt->fetch(PDO::FETCH_ASSOC);
+
+// Yoksa başlat
+if (!$activeSession) {
+    $pdo->prepare("INSERT INTO table_sessions (table_id, total_guests) VALUES (?, 1)")
+        ->execute([$table_id]);
+}
+
+
 try {
     $pdo->beginTransaction();
 

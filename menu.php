@@ -346,15 +346,28 @@ $baseUrl = ((isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] === 'on') ? "https" :
   fetch('get_orders_by_token.php?token=' + tableToken)
     .then(res => res.json())
     .then(data => {
+      const orderStatusBox = document.getElementById('order-status');
       const orderList = document.getElementById('orderList');
-      orderList.innerHTML = '';
+      const feedbackBtn = document.getElementById('feedbackBtn');
 
-      if (!data || data.length === 0) {
-        orderList.innerHTML = '<p>Henüz siparişiniz yok.</p>';
+      // Sipariş kutusunu göster
+      orderStatusBox.style.display = 'block';
+
+      // Eğer masa oturumu kapatıldıysa
+      if (data.error === 'session_closed') {
+        orderList.innerHTML = '<p class="text-danger">Bu masanın oturumu sona erdi. Lütfen yeni QR kod okutun.</p>';
+        if (feedbackBtn) feedbackBtn.style.display = 'none';
         return;
       }
 
-      // Ürün bazlı gruplama
+      // Eğer hiç sipariş yoksa
+      if (!data || data.length === 0) {
+        orderList.innerHTML = '<p>Henüz siparişiniz yok.</p>';
+        if (feedbackBtn) feedbackBtn.style.display = 'none';
+        return;
+      }
+
+      // Ürün bazlı grupla
       const grouped = {};
       data.forEach(order => {
         const key = order.product_name;
@@ -362,36 +375,57 @@ $baseUrl = ((isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] === 'on') ? "https" :
         grouped[key].push(order);
       });
 
-      // Siparişleri göster
+      // Listeyi temizle
+      orderList.innerHTML = '';
+
+      // En az bir sipariş hazırlandı mı? (Yorum butonu için)
+      let hasReadyProduct = false;
+
+      // Her ürün için kart oluştur
       for (const product in grouped) {
         const orders = grouped[product];
         let totalQty = 0;
-        let statuses = [];
+        let statusCounts = {
+          'hazırlanıyor': 0,
+          'hazırlandı': 0,
+          'teslim edildi': 0,
+          'iptal': 0
+        };
 
         orders.forEach(o => {
-          totalQty += parseInt(o.quantity);
-          const orderTime = new Date(o.order_placed_at);
-          const now = new Date();
-          const minutesAgo = Math.floor((now - orderTime) / 60000);
-
-          if (o.status === 'hazırlanıyor') {
-            statuses.push(`${o.quantity}x hazırlanıyor - ${minutesAgo} dk önce`);
-          } else if (o.status === 'hazırlandı') {
-            statuses.push(`${o.quantity}x hazırlandı`);
-          } else if (o.status === 'teslim edildi') {
-            statuses.push(`${o.quantity}x teslim edildi`);
-          } else if (o.status === 'iptal') {
-            statuses.push(`${o.quantity}x iptal edildi`);
-          }
+          const qty = parseInt(o.quantity);
+          totalQty += qty;
+          statusCounts[o.status] += qty;
+          if (o.status === 'hazırlandı') hasReadyProduct = true;
         });
+
+        // Durumları yazıya dök
+        let statusText = [];
+        for (let status in statusCounts) {
+          if (statusCounts[status] > 0) {
+            statusText.push(`${statusCounts[status]}x ${status}`);
+          }
+        }
 
         const div = document.createElement('div');
         div.className = "mb-2";
-        div.innerHTML = `<p><strong>${product}</strong> x${totalQty} → ${statuses.join(', ')}</p>`;
+        div.innerHTML = `<p><strong>${product}</strong> x${totalQty} → ${statusText.join(', ')}</p>`;
         orderList.appendChild(div);
+      }
+
+      // 🎯 Yorum butonunu göster/gizle
+      if (feedbackBtn) {
+        feedbackBtn.style.display = hasReadyProduct ? 'block' : 'none';
       }
     });
 }
+
+
+
+fetchOrders();
+setInterval(fetchOrders, 5000);
+
+
 
 
     function showFeedbackPopup() {
@@ -423,6 +457,12 @@ $baseUrl = ((isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] === 'on') ? "https" :
         onclick="showFeedbackPopup()">
   ⭐ Yorum Yap
 </button>
+<script>
+  document.addEventListener("DOMContentLoaded", () => {
+    console.log("Sayfa yüklendi");
+    console.log("Sipariş Takibi div:", document.getElementById("orderList"));
+  });
+</script>
 
 </body>
 </html>

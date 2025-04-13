@@ -9,7 +9,7 @@ if (!$token) {
     exit;
 }
 
-// Token ile masa ID'si alınır
+// Token ile table_id alınır
 $stmt = $pdo->prepare("SELECT id FROM tables WHERE token = ?");
 $stmt->execute([$token]);
 $table = $stmt->fetch(PDO::FETCH_ASSOC);
@@ -21,7 +21,17 @@ if (!$table) {
 
 $table_id = $table['id'];
 
-// Siparişler çekilir (iptal edilen hariç)
+// Aktif masa oturumu kontrolü
+$sessionCheck = $pdo->prepare("SELECT * FROM table_sessions WHERE table_id = ? AND ended_at IS NULL");
+$sessionCheck->execute([$table_id]);
+$activeSession = $sessionCheck->fetch(PDO::FETCH_ASSOC);
+
+if (!$activeSession) {
+    echo json_encode(['error' => 'session_closed']);
+    exit;
+}
+
+// Siparişleri getir
 $stmt = $pdo->prepare("
     SELECT 
         o.id,
