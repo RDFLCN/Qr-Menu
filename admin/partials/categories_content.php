@@ -1,4 +1,30 @@
 <?php
+require_once '../includes/db.php';
+require_once '../includes/auth.php';
+require_once '../includes/functions.php';
+
+// Ekleme
+if ($_SERVER['REQUEST_METHOD'] === 'POST') {
+    $name = trim($_POST['name']);
+    $sort = (int)$_POST['sort_order'];
+    if ($name !== '') {
+        $stmt = $pdo->prepare("INSERT INTO categories (name, sort_order, visible) VALUES (?, ?, 1)");
+        $stmt->execute([$name, $sort]);
+        header("Location: categories.php?success=1");
+        exit;
+    }
+}
+
+// Silme
+if (isset($_GET['delete']) && is_numeric($_GET['delete'])) {
+    $id = (int)$_GET['delete'];
+    $pdo->prepare("DELETE FROM categories WHERE id = ?")->execute([$id]);
+    header("Location: categories.php?deleted=1");
+    exit;
+}
+
+
+
 $categories = getCategories();
 $success = '';
 $error = '';
