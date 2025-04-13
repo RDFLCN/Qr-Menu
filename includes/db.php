@@ -1,6 +1,6 @@
 <?php
 $host = 'localhost';
-$dbname = 'crabpubcafe_qr_menu';         // Veritabanı adı
+$dbname = 'crabpubcafe_qr_menuss';         // Veritabanı adı
 $username = 'crabpubcafe_qr_kamenu';     // Veritabanı kullanıcı adı
 $password = 'B5opE);4Cd+y-$g{GE';        // Veritabanı şifresi
 
