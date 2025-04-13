@@ -1,0 +1,959 @@
+[11-Apr-2025 13:25:43 Europe/Istanbul] PHP Warning:  Undefined variable $table_token in /home/crabpubcafe/public_html/Qr-Menu/menu.php on line 99
+[11-Apr-2025 13:25:52 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'table_id' cannot be null in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php:13
+Stack trace:
+#0 /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php(13): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php on line 13
+[11-Apr-2025 19:15:38 Europe/Istanbul] PHP Warning:  require_once(../includes/db.php): Failed to open stream: No such file or directory in /home/crabpubcafe/public_html/Qr-Menu/menu.php on line 2
+[11-Apr-2025 19:15:38 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Failed opening required '../includes/db.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home/crabpubcafe/public_html/Qr-Menu/menu.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/menu.php on line 2
+[11-Apr-2025 19:15:38 Europe/Istanbul] PHP Warning:  require_once(../includes/db.php): Failed to open stream: No such file or directory in /home/crabpubcafe/public_html/Qr-Menu/menu.php on line 2
+[11-Apr-2025 19:15:38 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Failed opening required '../includes/db.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home/crabpubcafe/public_html/Qr-Menu/menu.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/menu.php on line 2
+[11-Apr-2025 19:15:39 Europe/Istanbul] PHP Warning:  require_once(../includes/db.php): Failed to open stream: No such file or directory in /home/crabpubcafe/public_html/Qr-Menu/menu.php on line 2
+[11-Apr-2025 19:15:39 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Failed opening required '../includes/db.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home/crabpubcafe/public_html/Qr-Menu/menu.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/menu.php on line 2
+[11-Apr-2025 19:15:39 Europe/Istanbul] PHP Warning:  require_once(../includes/db.php): Failed to open stream: No such file or directory in /home/crabpubcafe/public_html/Qr-Menu/menu.php on line 2
+[11-Apr-2025 19:15:39 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Failed opening required '../includes/db.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home/crabpubcafe/public_html/Qr-Menu/menu.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/menu.php on line 2
+[11-Apr-2025 20:13:27 Europe/Istanbul] PHP Warning:  Undefined variable $product in /home/crabpubcafe/public_html/Qr-Menu/menu.php on line 189
+[11-Apr-2025 20:13:27 Europe/Istanbul] PHP Warning:  Trying to access array offset on null in /home/crabpubcafe/public_html/Qr-Menu/menu.php on line 189
+[11-Apr-2025 20:13:27 Europe/Istanbul] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/crabpubcafe/public_html/Qr-Menu/menu.php on line 189
+[11-Apr-2025 20:13:27 Europe/Istanbul] PHP Warning:  Undefined variable $product in /home/crabpubcafe/public_html/Qr-Menu/menu.php on line 189
+[11-Apr-2025 20:13:27 Europe/Istanbul] PHP Warning:  Trying to access array offset on null in /home/crabpubcafe/public_html/Qr-Menu/menu.php on line 189
+[11-Apr-2025 20:13:27 Europe/Istanbul] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/crabpubcafe/public_html/Qr-Menu/menu.php on line 189
+[11-Apr-2025 20:13:37 Europe/Istanbul] PHP Warning:  Undefined variable $product in /home/crabpubcafe/public_html/Qr-Menu/menu.php on line 189
+[11-Apr-2025 20:13:37 Europe/Istanbul] PHP Warning:  Trying to access array offset on null in /home/crabpubcafe/public_html/Qr-Menu/menu.php on line 189
+[11-Apr-2025 20:13:37 Europe/Istanbul] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/crabpubcafe/public_html/Qr-Menu/menu.php on line 189
+[11-Apr-2025 20:13:37 Europe/Istanbul] PHP Warning:  Undefined variable $product in /home/crabpubcafe/public_html/Qr-Menu/menu.php on line 189
+[11-Apr-2025 20:13:37 Europe/Istanbul] PHP Warning:  Trying to access array offset on null in /home/crabpubcafe/public_html/Qr-Menu/menu.php on line 189
+[11-Apr-2025 20:13:37 Europe/Istanbul] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/crabpubcafe/public_html/Qr-Menu/menu.php on line 189
+[11-Apr-2025 20:13:40 Europe/Istanbul] PHP Warning:  Undefined variable $product in /home/crabpubcafe/public_html/Qr-Menu/menu.php on line 189
+[11-Apr-2025 20:13:40 Europe/Istanbul] PHP Warning:  Trying to access array offset on null in /home/crabpubcafe/public_html/Qr-Menu/menu.php on line 189
+[11-Apr-2025 20:13:40 Europe/Istanbul] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/crabpubcafe/public_html/Qr-Menu/menu.php on line 189
+[11-Apr-2025 20:13:40 Europe/Istanbul] PHP Warning:  Undefined variable $product in /home/crabpubcafe/public_html/Qr-Menu/menu.php on line 189
+[11-Apr-2025 20:13:40 Europe/Istanbul] PHP Warning:  Trying to access array offset on null in /home/crabpubcafe/public_html/Qr-Menu/menu.php on line 189
+[11-Apr-2025 20:13:40 Europe/Istanbul] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/crabpubcafe/public_html/Qr-Menu/menu.php on line 189
+[11-Apr-2025 20:51:29 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.variant_id' in 'ON' in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php:27
+Stack trace:
+#0 /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php(27): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php on line 27
+[11-Apr-2025 20:51:29 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.variant_id' in 'ON' in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php:27
+Stack trace:
+#0 /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php(27): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php on line 27
+[11-Apr-2025 20:51:38 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.variant_id' in 'ON' in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php:27
+Stack trace:
+#0 /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php(27): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php on line 27
+[11-Apr-2025 20:51:43 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.variant_id' in 'ON' in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php:27
+Stack trace:
+#0 /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php(27): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php on line 27
+[11-Apr-2025 20:51:48 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.variant_id' in 'ON' in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php:27
+Stack trace:
+#0 /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php(27): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php on line 27
+[11-Apr-2025 20:51:53 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.variant_id' in 'ON' in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php:27
+Stack trace:
+#0 /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php(27): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php on line 27
+[11-Apr-2025 20:51:58 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.variant_id' in 'ON' in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php:27
+Stack trace:
+#0 /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php(27): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php on line 27
+[11-Apr-2025 20:52:03 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.variant_id' in 'ON' in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php:27
+Stack trace:
+#0 /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php(27): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php on line 27
+[11-Apr-2025 20:52:08 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.variant_id' in 'ON' in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php:27
+Stack trace:
+#0 /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php(27): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php on line 27
+[11-Apr-2025 20:52:13 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.variant_id' in 'ON' in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php:27
+Stack trace:
+#0 /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php(27): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php on line 27
+[11-Apr-2025 20:52:18 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.variant_id' in 'ON' in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php:27
+Stack trace:
+#0 /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php(27): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php on line 27
+[11-Apr-2025 20:52:23 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.variant_id' in 'ON' in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php:27
+Stack trace:
+#0 /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php(27): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php on line 27
+[11-Apr-2025 20:52:28 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.variant_id' in 'ON' in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php:27
+Stack trace:
+#0 /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php(27): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php on line 27
+[11-Apr-2025 20:52:33 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.variant_id' in 'ON' in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php:27
+Stack trace:
+#0 /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php(27): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php on line 27
+[11-Apr-2025 20:52:38 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.variant_id' in 'ON' in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php:27
+Stack trace:
+#0 /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php(27): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php on line 27
+[11-Apr-2025 20:52:43 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.variant_id' in 'ON' in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php:27
+Stack trace:
+#0 /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php(27): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php on line 27
+[11-Apr-2025 20:52:47 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.variant_id' in 'ON' in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php:27
+Stack trace:
+#0 /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php(27): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php on line 27
+[11-Apr-2025 20:52:48 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.variant_id' in 'ON' in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php:27
+Stack trace:
+#0 /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php(27): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php on line 27
+[11-Apr-2025 20:52:53 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.variant_id' in 'ON' in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php:27
+Stack trace:
+#0 /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php(27): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php on line 27
+[11-Apr-2025 20:53:01 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.variant_id' in 'ON' in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php:27
+Stack trace:
+#0 /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php(27): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php on line 27
+[11-Apr-2025 20:53:06 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.variant_id' in 'ON' in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php:27
+Stack trace:
+#0 /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php(27): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php on line 27
+[11-Apr-2025 20:53:11 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.variant_id' in 'ON' in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php:27
+Stack trace:
+#0 /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php(27): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php on line 27
+[11-Apr-2025 20:53:16 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.variant_id' in 'ON' in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php:27
+Stack trace:
+#0 /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php(27): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php on line 27
+[11-Apr-2025 20:53:21 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.variant_id' in 'ON' in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php:27
+Stack trace:
+#0 /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php(27): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php on line 27
+[11-Apr-2025 20:53:26 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.variant_id' in 'ON' in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php:27
+Stack trace:
+#0 /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php(27): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php on line 27
+[11-Apr-2025 20:53:31 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.variant_id' in 'ON' in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php:27
+Stack trace:
+#0 /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php(27): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php on line 27
+[11-Apr-2025 20:53:36 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.variant_id' in 'ON' in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php:27
+Stack trace:
+#0 /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php(27): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php on line 27
+[11-Apr-2025 20:53:41 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.variant_id' in 'ON' in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php:27
+Stack trace:
+#0 /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php(27): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php on line 27
+[11-Apr-2025 20:53:46 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.variant_id' in 'ON' in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php:27
+Stack trace:
+#0 /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php(27): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php on line 27
+[11-Apr-2025 20:53:51 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.variant_id' in 'ON' in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php:27
+Stack trace:
+#0 /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php(27): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php on line 27
+[11-Apr-2025 20:53:56 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.variant_id' in 'ON' in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php:27
+Stack trace:
+#0 /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php(27): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php on line 27
+[11-Apr-2025 20:54:01 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.variant_id' in 'ON' in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php:27
+Stack trace:
+#0 /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php(27): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php on line 27
+[11-Apr-2025 20:54:29 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.variant_id' in 'ON' in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php:27
+Stack trace:
+#0 /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php(27): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php on line 27
+[11-Apr-2025 20:54:35 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.variant_id' in 'ON' in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php:27
+Stack trace:
+#0 /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php(27): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php on line 27
+[11-Apr-2025 20:54:40 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.variant_id' in 'ON' in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php:27
+Stack trace:
+#0 /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php(27): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php on line 27
+[11-Apr-2025 20:54:45 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.variant_id' in 'ON' in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php:27
+Stack trace:
+#0 /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php(27): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php on line 27
+[11-Apr-2025 20:54:50 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.variant_id' in 'ON' in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php:27
+Stack trace:
+#0 /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php(27): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php on line 27
+[11-Apr-2025 20:54:55 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.variant_id' in 'ON' in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php:27
+Stack trace:
+#0 /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php(27): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php on line 27
+[11-Apr-2025 20:55:00 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.variant_id' in 'ON' in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php:27
+Stack trace:
+#0 /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php(27): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php on line 27
+[11-Apr-2025 20:55:04 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.variant_id' in 'ON' in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php:27
+Stack trace:
+#0 /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php(27): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php on line 27
+[11-Apr-2025 20:55:09 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.variant_id' in 'ON' in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php:27
+Stack trace:
+#0 /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php(27): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php on line 27
+[11-Apr-2025 20:55:14 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.variant_id' in 'ON' in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php:27
+Stack trace:
+#0 /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php(27): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php on line 27
+[11-Apr-2025 20:55:22 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.variant_id' in 'ON' in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php:27
+Stack trace:
+#0 /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php(27): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php on line 27
+[11-Apr-2025 20:55:27 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.variant_id' in 'ON' in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php:27
+Stack trace:
+#0 /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php(27): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php on line 27
+[11-Apr-2025 20:55:32 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.variant_id' in 'ON' in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php:27
+Stack trace:
+#0 /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php(27): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php on line 27
+[11-Apr-2025 20:55:35 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.variant_id' in 'ON' in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php:27
+Stack trace:
+#0 /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php(27): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php on line 27
+[11-Apr-2025 20:55:38 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.variant_id' in 'ON' in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php:27
+Stack trace:
+#0 /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php(27): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php on line 27
+[11-Apr-2025 20:55:43 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.variant_id' in 'ON' in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php:27
+Stack trace:
+#0 /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php(27): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php on line 27
+[11-Apr-2025 20:55:48 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.variant_id' in 'ON' in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php:27
+Stack trace:
+#0 /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php(27): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php on line 27
+[11-Apr-2025 20:55:53 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.variant_id' in 'ON' in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php:27
+Stack trace:
+#0 /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php(27): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php on line 27
+[11-Apr-2025 20:55:58 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.variant_id' in 'ON' in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php:27
+Stack trace:
+#0 /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php(27): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php on line 27
+[11-Apr-2025 20:56:03 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.variant_id' in 'ON' in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php:27
+Stack trace:
+#0 /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php(27): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php on line 27
+[11-Apr-2025 20:56:08 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.variant_id' in 'ON' in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php:27
+Stack trace:
+#0 /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php(27): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php on line 27
+[11-Apr-2025 20:56:13 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.variant_id' in 'ON' in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php:27
+Stack trace:
+#0 /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php(27): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php on line 27
+[11-Apr-2025 20:56:18 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.variant_id' in 'ON' in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php:27
+Stack trace:
+#0 /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php(27): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php on line 27
+[11-Apr-2025 20:56:23 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.variant_id' in 'ON' in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php:27
+Stack trace:
+#0 /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php(27): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php on line 27
+[11-Apr-2025 20:56:28 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.variant_id' in 'ON' in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php:27
+Stack trace:
+#0 /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php(27): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php on line 27
+[11-Apr-2025 20:56:31 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.variant_id' in 'ON' in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php:27
+Stack trace:
+#0 /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php(27): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php on line 27
+[11-Apr-2025 20:56:36 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.variant_id' in 'ON' in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php:27
+Stack trace:
+#0 /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php(27): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php on line 27
+[11-Apr-2025 20:56:41 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.variant_id' in 'ON' in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php:27
+Stack trace:
+#0 /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php(27): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php on line 27
+[11-Apr-2025 20:56:41 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.variant_id' in 'ON' in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php:27
+Stack trace:
+#0 /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php(27): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php on line 27
+[11-Apr-2025 20:56:46 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.variant_id' in 'ON' in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php:27
+Stack trace:
+#0 /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php(27): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php on line 27
+[11-Apr-2025 20:56:49 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.variant_id' in 'ON' in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php:27
+Stack trace:
+#0 /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php(27): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php on line 27
+[11-Apr-2025 20:56:54 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.variant_id' in 'ON' in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php:27
+Stack trace:
+#0 /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php(27): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php on line 27
+[11-Apr-2025 20:56:59 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.variant_id' in 'ON' in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php:27
+Stack trace:
+#0 /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php(27): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php on line 27
+[11-Apr-2025 20:57:04 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.variant_id' in 'ON' in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php:27
+Stack trace:
+#0 /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php(27): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php on line 27
+[11-Apr-2025 20:57:09 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.variant_id' in 'ON' in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php:27
+Stack trace:
+#0 /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php(27): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php on line 27
+[11-Apr-2025 20:57:14 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.variant_id' in 'ON' in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php:27
+Stack trace:
+#0 /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php(27): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php on line 27
+[11-Apr-2025 20:57:19 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.variant_id' in 'ON' in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php:27
+Stack trace:
+#0 /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php(27): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php on line 27
+[11-Apr-2025 20:57:24 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.variant_id' in 'ON' in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php:27
+Stack trace:
+#0 /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php(27): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php on line 27
+[11-Apr-2025 20:57:29 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.variant_id' in 'ON' in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php:27
+Stack trace:
+#0 /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php(27): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php on line 27
+[11-Apr-2025 20:57:29 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.variant_id' in 'ON' in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php:27
+Stack trace:
+#0 /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php(27): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php on line 27
+[11-Apr-2025 20:57:34 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.variant_id' in 'ON' in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php:27
+Stack trace:
+#0 /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php(27): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php on line 27
+[11-Apr-2025 20:57:39 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.variant_id' in 'ON' in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php:27
+Stack trace:
+#0 /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php(27): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php on line 27
+[11-Apr-2025 20:57:42 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.variant_id' in 'ON' in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php:27
+Stack trace:
+#0 /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php(27): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php on line 27
+[11-Apr-2025 20:57:47 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.variant_id' in 'ON' in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php:27
+Stack trace:
+#0 /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php(27): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php on line 27
+[11-Apr-2025 20:57:47 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.variant_id' in 'ON' in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php:27
+Stack trace:
+#0 /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php(27): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php on line 27
+[11-Apr-2025 20:57:52 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.variant_id' in 'ON' in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php:27
+Stack trace:
+#0 /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php(27): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php on line 27
+[11-Apr-2025 20:57:57 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.variant_id' in 'ON' in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php:27
+Stack trace:
+#0 /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php(27): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php on line 27
+[11-Apr-2025 20:58:00 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.variant_id' in 'ON' in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php:27
+Stack trace:
+#0 /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php(27): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php on line 27
+[11-Apr-2025 20:58:05 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.variant_id' in 'ON' in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php:27
+Stack trace:
+#0 /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php(27): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php on line 27
+[11-Apr-2025 20:58:10 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.variant_id' in 'ON' in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php:27
+Stack trace:
+#0 /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php(27): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php on line 27
+[11-Apr-2025 20:58:15 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.variant_id' in 'ON' in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php:27
+Stack trace:
+#0 /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php(27): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php on line 27
+[11-Apr-2025 20:58:20 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.variant_id' in 'ON' in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php:27
+Stack trace:
+#0 /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php(27): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php on line 27
+[11-Apr-2025 20:58:25 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.variant_id' in 'ON' in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php:27
+Stack trace:
+#0 /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php(27): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php on line 27
+[11-Apr-2025 20:58:30 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.variant_id' in 'ON' in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php:27
+Stack trace:
+#0 /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php(27): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php on line 27
+[11-Apr-2025 20:58:35 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.variant_id' in 'ON' in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php:27
+Stack trace:
+#0 /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php(27): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php on line 27
+[11-Apr-2025 20:58:40 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.variant_id' in 'ON' in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php:27
+Stack trace:
+#0 /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php(27): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php on line 27
+[11-Apr-2025 20:58:45 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.variant_id' in 'ON' in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php:27
+Stack trace:
+#0 /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php(27): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php on line 27
+[11-Apr-2025 20:58:50 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.variant_id' in 'ON' in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php:27
+Stack trace:
+#0 /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php(27): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php on line 27
+[11-Apr-2025 20:58:55 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.variant_id' in 'ON' in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php:27
+Stack trace:
+#0 /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php(27): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php on line 27
+[11-Apr-2025 20:59:00 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.variant_id' in 'ON' in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php:27
+Stack trace:
+#0 /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php(27): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php on line 27
+[11-Apr-2025 20:59:22 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.variant_id' in 'ON' in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php:34
+Stack trace:
+#0 /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php(34): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php on line 34
+[11-Apr-2025 20:59:23 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.variant_id' in 'ON' in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php:34
+Stack trace:
+#0 /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php(34): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php on line 34
+[11-Apr-2025 20:59:28 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.variant_id' in 'ON' in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php:34
+Stack trace:
+#0 /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php(34): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php on line 34
+[11-Apr-2025 20:59:29 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.variant_id' in 'ON' in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php:34
+Stack trace:
+#0 /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php(34): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php on line 34
+[11-Apr-2025 20:59:31 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.variant_id' in 'ON' in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php:34
+Stack trace:
+#0 /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php(34): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php on line 34
+[11-Apr-2025 20:59:36 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.variant_id' in 'ON' in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php:34
+Stack trace:
+#0 /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php(34): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php on line 34
+[11-Apr-2025 20:59:41 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.variant_id' in 'ON' in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php:34
+Stack trace:
+#0 /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php(34): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php on line 34
+[11-Apr-2025 20:59:41 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.variant_id' in 'ON' in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php:34
+Stack trace:
+#0 /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php(34): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php on line 34
+[11-Apr-2025 20:59:42 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.variant_id' in 'ON' in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php:34
+Stack trace:
+#0 /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php(34): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php on line 34
+[11-Apr-2025 20:59:43 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.variant_id' in 'ON' in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php:34
+Stack trace:
+#0 /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php(34): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php on line 34
+[11-Apr-2025 20:59:43 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.variant_id' in 'ON' in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php:34
+Stack trace:
+#0 /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php(34): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php on line 34
+[11-Apr-2025 20:59:43 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.variant_id' in 'ON' in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php:34
+Stack trace:
+#0 /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php(34): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php on line 34
+[11-Apr-2025 20:59:45 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.variant_id' in 'ON' in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php:34
+Stack trace:
+#0 /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php(34): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php on line 34
+[11-Apr-2025 20:59:50 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.variant_id' in 'ON' in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php:34
+Stack trace:
+#0 /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php(34): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php on line 34
+[11-Apr-2025 20:59:55 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.variant_id' in 'ON' in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php:34
+Stack trace:
+#0 /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php(34): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php on line 34
+[11-Apr-2025 21:00:00 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.variant_id' in 'ON' in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php:34
+Stack trace:
+#0 /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php(34): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php on line 34
+[11-Apr-2025 21:00:05 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.variant_id' in 'ON' in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php:34
+Stack trace:
+#0 /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php(34): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php on line 34
+[11-Apr-2025 21:00:10 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.variant_id' in 'ON' in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php:34
+Stack trace:
+#0 /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php(34): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php on line 34
+[11-Apr-2025 21:00:15 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.variant_id' in 'ON' in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php:34
+Stack trace:
+#0 /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php(34): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php on line 34
+[11-Apr-2025 21:00:20 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.variant_id' in 'ON' in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php:34
+Stack trace:
+#0 /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php(34): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php on line 34
+[11-Apr-2025 21:00:25 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.variant_id' in 'ON' in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php:34
+Stack trace:
+#0 /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php(34): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php on line 34
+[11-Apr-2025 21:00:30 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.variant_id' in 'ON' in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php:34
+Stack trace:
+#0 /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php(34): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php on line 34
+[11-Apr-2025 21:00:35 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.variant_id' in 'ON' in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php:34
+Stack trace:
+#0 /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php(34): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php on line 34
+[11-Apr-2025 21:00:40 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.variant_id' in 'ON' in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php:34
+Stack trace:
+#0 /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php(34): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php on line 34
+[11-Apr-2025 21:00:45 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.variant_id' in 'ON' in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php:34
+Stack trace:
+#0 /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php(34): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php on line 34
+[11-Apr-2025 21:01:02 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.variant_id' in 'ON' in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php:34
+Stack trace:
+#0 /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php(34): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php on line 34
+[11-Apr-2025 21:02:02 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.variant_id' in 'ON' in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php:34
+Stack trace:
+#0 /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php(34): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/get_orders_by_token.php on line 34
+[11-Apr-2025 22:04:18 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'quantity' in 'SET' in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php:42
+Stack trace:
+#0 /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php(42): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php on line 42
+[11-Apr-2025 22:04:22 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'quantity' in 'SET' in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php:42
+Stack trace:
+#0 /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php(42): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php on line 42
+[11-Apr-2025 22:04:23 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'quantity' in 'SET' in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php:42
+Stack trace:
+#0 /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php(42): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php on line 42
+[11-Apr-2025 22:04:23 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'quantity' in 'SET' in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php:42
+Stack trace:
+#0 /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php(42): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php on line 42
+[11-Apr-2025 22:04:27 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'quantity' in 'SET' in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php:42
+Stack trace:
+#0 /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php(42): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php on line 42
+[11-Apr-2025 22:04:29 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'quantity' in 'SET' in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php:42
+Stack trace:
+#0 /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php(42): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php on line 42
+[11-Apr-2025 22:09:40 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'quantity' in 'SET' in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php:42
+Stack trace:
+#0 /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php(42): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php on line 42
+[11-Apr-2025 22:10:27 Europe/Istanbul] PHP Warning:  require_once(../includes/db.php): Failed to open stream: No such file or directory in /home/crabpubcafe/public_html/Qr-Menu/menu.php on line 3
+[11-Apr-2025 22:10:27 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Failed opening required '../includes/db.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home/crabpubcafe/public_html/Qr-Menu/menu.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/menu.php on line 3
+[11-Apr-2025 22:10:28 Europe/Istanbul] PHP Warning:  require_once(../includes/db.php): Failed to open stream: No such file or directory in /home/crabpubcafe/public_html/Qr-Menu/menu.php on line 3
+[11-Apr-2025 22:10:28 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Failed opening required '../includes/db.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home/crabpubcafe/public_html/Qr-Menu/menu.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/menu.php on line 3
+[11-Apr-2025 22:10:29 Europe/Istanbul] PHP Warning:  require_once(../includes/db.php): Failed to open stream: No such file or directory in /home/crabpubcafe/public_html/Qr-Menu/menu.php on line 3
+[11-Apr-2025 22:10:29 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Failed opening required '../includes/db.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home/crabpubcafe/public_html/Qr-Menu/menu.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/menu.php on line 3
+[11-Apr-2025 22:10:29 Europe/Istanbul] PHP Warning:  require_once(../includes/db.php): Failed to open stream: No such file or directory in /home/crabpubcafe/public_html/Qr-Menu/menu.php on line 3
+[11-Apr-2025 22:10:29 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Failed opening required '../includes/db.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home/crabpubcafe/public_html/Qr-Menu/menu.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/menu.php on line 3
+[11-Apr-2025 22:10:29 Europe/Istanbul] PHP Warning:  require_once(../includes/db.php): Failed to open stream: No such file or directory in /home/crabpubcafe/public_html/Qr-Menu/menu.php on line 3
+[11-Apr-2025 22:10:29 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Failed opening required '../includes/db.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home/crabpubcafe/public_html/Qr-Menu/menu.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/menu.php on line 3
+[11-Apr-2025 22:10:29 Europe/Istanbul] PHP Warning:  require_once(../includes/db.php): Failed to open stream: No such file or directory in /home/crabpubcafe/public_html/Qr-Menu/menu.php on line 3
+[11-Apr-2025 22:10:29 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Failed opening required '../includes/db.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home/crabpubcafe/public_html/Qr-Menu/menu.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/menu.php on line 3
+[11-Apr-2025 22:10:55 Europe/Istanbul] PHP Warning:  require_once(../includes/db.php): Failed to open stream: No such file or directory in /home/crabpubcafe/public_html/Qr-Menu/menu.php on line 3
+[11-Apr-2025 22:10:55 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Failed opening required '../includes/db.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home/crabpubcafe/public_html/Qr-Menu/menu.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/menu.php on line 3
+[11-Apr-2025 22:57:26 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'quantity' in 'SET' in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php:42
+Stack trace:
+#0 /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php(42): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php on line 42
+[11-Apr-2025 23:02:14 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'quantity' in 'SET' in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php:42
+Stack trace:
+#0 /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php(42): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php on line 42
+[11-Apr-2025 23:04:21 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'quantity' in 'SET' in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php:42
+Stack trace:
+#0 /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php(42): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php on line 42
+[11-Apr-2025 23:04:40 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'quantity' in 'SET' in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php:42
+Stack trace:
+#0 /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php(42): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php on line 42
+[11-Apr-2025 23:04:41 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'quantity' in 'SET' in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php:42
+Stack trace:
+#0 /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php(42): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php on line 42
+[11-Apr-2025 23:04:41 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'quantity' in 'SET' in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php:42
+Stack trace:
+#0 /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php(42): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php on line 42
+[11-Apr-2025 23:04:41 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'quantity' in 'SET' in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php:42
+Stack trace:
+#0 /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php(42): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php on line 42
+[11-Apr-2025 23:04:43 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'quantity' in 'SET' in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php:42
+Stack trace:
+#0 /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php(42): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php on line 42
+[11-Apr-2025 23:04:52 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'quantity' in 'SET' in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php:42
+Stack trace:
+#0 /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php(42): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php on line 42
+[11-Apr-2025 23:04:55 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'quantity' in 'SET' in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php:42
+Stack trace:
+#0 /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php(42): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php on line 42
+[11-Apr-2025 23:04:55 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'quantity' in 'SET' in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php:42
+Stack trace:
+#0 /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php(42): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php on line 42
+[11-Apr-2025 23:04:55 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'quantity' in 'SET' in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php:42
+Stack trace:
+#0 /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php(42): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php on line 42
+[11-Apr-2025 23:04:55 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'quantity' in 'SET' in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php:42
+Stack trace:
+#0 /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php(42): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php on line 42
+[11-Apr-2025 23:05:20 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'quantity' in 'SET' in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php:42
+Stack trace:
+#0 /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php(42): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php on line 42
+[11-Apr-2025 23:06:36 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'quantity' in 'SET' in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php:42
+Stack trace:
+#0 /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php(42): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php on line 42
+[11-Apr-2025 23:06:52 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'quantity' in 'SET' in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php:42
+Stack trace:
+#0 /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php(42): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php on line 42
+[11-Apr-2025 23:07:45 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'quantity' in 'SET' in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php:42
+Stack trace:
+#0 /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php(42): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php on line 42
+[11-Apr-2025 23:11:47 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'quantity' in 'SET' in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php:42
+Stack trace:
+#0 /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php(42): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php on line 42
+[11-Apr-2025 23:12:14 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'quantity' in 'SET' in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php:42
+Stack trace:
+#0 /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php(42): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php on line 42
+[11-Apr-2025 23:12:18 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'quantity' in 'SET' in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php:42
+Stack trace:
+#0 /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php(42): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php on line 42
+[11-Apr-2025 23:16:44 Europe/Istanbul] PHP Warning:  Undefined array key "quantity" in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php on line 32
+[11-Apr-2025 23:16:44 Europe/Istanbul] PHP Warning:  Undefined array key "quantity" in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php on line 32
+[11-Apr-2025 23:16:44 Europe/Istanbul] PHP Warning:  Undefined array key "quantity" in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php on line 32
+[11-Apr-2025 23:17:19 Europe/Istanbul] PHP Warning:  Undefined array key "quantity" in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php on line 32
+[11-Apr-2025 23:17:19 Europe/Istanbul] PHP Warning:  Undefined array key "quantity" in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php on line 32
+[11-Apr-2025 23:17:19 Europe/Istanbul] PHP Warning:  Undefined array key "quantity" in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php on line 32
+[11-Apr-2025 23:17:47 Europe/Istanbul] PHP Warning:  Undefined array key "quantity" in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php on line 32
+[11-Apr-2025 23:17:47 Europe/Istanbul] PHP Warning:  Undefined array key "quantity" in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php on line 32
+[11-Apr-2025 23:20:04 Europe/Istanbul] PHP Warning:  require_once(../includes/db.php): Failed to open stream: No such file or directory in /home/crabpubcafe/public_html/Qr-Menu/menu.php on line 3
+[11-Apr-2025 23:20:04 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Failed opening required '../includes/db.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home/crabpubcafe/public_html/Qr-Menu/menu.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/menu.php on line 3
+[11-Apr-2025 23:20:04 Europe/Istanbul] PHP Warning:  require_once(../includes/db.php): Failed to open stream: No such file or directory in /home/crabpubcafe/public_html/Qr-Menu/menu.php on line 3
+[11-Apr-2025 23:20:04 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Failed opening required '../includes/db.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home/crabpubcafe/public_html/Qr-Menu/menu.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/menu.php on line 3
+[11-Apr-2025 23:20:05 Europe/Istanbul] PHP Warning:  require_once(../includes/db.php): Failed to open stream: No such file or directory in /home/crabpubcafe/public_html/Qr-Menu/menu.php on line 3
+[11-Apr-2025 23:20:05 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Failed opening required '../includes/db.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home/crabpubcafe/public_html/Qr-Menu/menu.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/menu.php on line 3
+[11-Apr-2025 23:20:05 Europe/Istanbul] PHP Warning:  require_once(../includes/db.php): Failed to open stream: No such file or directory in /home/crabpubcafe/public_html/Qr-Menu/menu.php on line 3
+[11-Apr-2025 23:20:05 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Failed opening required '../includes/db.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home/crabpubcafe/public_html/Qr-Menu/menu.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/menu.php on line 3
+[11-Apr-2025 23:20:05 Europe/Istanbul] PHP Warning:  require_once(../includes/db.php): Failed to open stream: No such file or directory in /home/crabpubcafe/public_html/Qr-Menu/menu.php on line 3
+[11-Apr-2025 23:20:05 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Failed opening required '../includes/db.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home/crabpubcafe/public_html/Qr-Menu/menu.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/menu.php on line 3
+[11-Apr-2025 23:20:10 Europe/Istanbul] PHP Warning:  require_once(../includes/db.php): Failed to open stream: No such file or directory in /home/crabpubcafe/public_html/Qr-Menu/menu.php on line 3
+[11-Apr-2025 23:20:10 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Failed opening required '../includes/db.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home/crabpubcafe/public_html/Qr-Menu/menu.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/menu.php on line 3
+[11-Apr-2025 23:21:54 Europe/Istanbul] PHP Warning:  Undefined array key "quantity" in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php on line 32
+[11-Apr-2025 23:21:54 Europe/Istanbul] PHP Warning:  Undefined array key "quantity" in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php on line 32
+[11-Apr-2025 23:22:56 Europe/Istanbul] PHP Warning:  Undefined array key "quantity" in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php on line 32
+[11-Apr-2025 23:22:56 Europe/Istanbul] PHP Warning:  Undefined array key "quantity" in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php on line 32
+[11-Apr-2025 23:23:10 Europe/Istanbul] PHP Warning:  Undefined array key "quantity" in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php on line 32
+[11-Apr-2025 23:23:10 Europe/Istanbul] PHP Warning:  Undefined array key "quantity" in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php on line 32
+[11-Apr-2025 23:23:23 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'quantity' in 'SET' in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php:42
+Stack trace:
+#0 /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php(42): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php on line 42
+[11-Apr-2025 23:23:24 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'quantity' in 'SET' in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php:42
+Stack trace:
+#0 /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php(42): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php on line 42
+[12-Apr-2025 00:21:56 Europe/Istanbul] PHP Warning:  Undefined variable $status in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php on line 51
+[12-Apr-2025 00:21:56 Europe/Istanbul] PHP Warning:  Undefined variable $status in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php on line 77
+[12-Apr-2025 00:22:26 Europe/Istanbul] PHP Warning:  Undefined variable $status in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php on line 51
+[12-Apr-2025 00:22:26 Europe/Istanbul] PHP Warning:  Undefined variable $status in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php on line 77
+[12-Apr-2025 00:23:34 Europe/Istanbul] PHP Warning:  Undefined variable $status in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php on line 51
+[12-Apr-2025 00:23:34 Europe/Istanbul] PHP Warning:  Undefined variable $status in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php on line 77
+[12-Apr-2025 00:25:27 Europe/Istanbul] PHP Warning:  Undefined variable $status in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php on line 51
+[12-Apr-2025 00:25:27 Europe/Istanbul] PHP Warning:  Undefined variable $status in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php on line 77
+[12-Apr-2025 00:30:07 Europe/Istanbul] PHP Warning:  Undefined variable $status in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php on line 51
+[12-Apr-2025 00:30:07 Europe/Istanbul] PHP Warning:  Undefined variable $status in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php on line 77
+[12-Apr-2025 00:37:59 Europe/Istanbul] PHP Warning:  Undefined array key "price" in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php on line 30
+[12-Apr-2025 00:37:59 Europe/Istanbul] PHP Warning:  Undefined variable $status in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php on line 51
+[12-Apr-2025 00:37:59 Europe/Istanbul] PHP Warning:  Undefined variable $status in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php on line 77
+[12-Apr-2025 00:42:32 Europe/Istanbul] PHP Warning:  Undefined variable $status in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php on line 51
+[12-Apr-2025 00:42:32 Europe/Istanbul] PHP Warning:  Undefined variable $status in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php on line 77
+[12-Apr-2025 00:42:59 Europe/Istanbul] PHP Warning:  Undefined variable $status in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php on line 51
+[12-Apr-2025 00:42:59 Europe/Istanbul] PHP Warning:  Undefined variable $status in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php on line 77
+[12-Apr-2025 00:45:17 Europe/Istanbul] PHP Warning:  Undefined variable $status in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php on line 51
+[12-Apr-2025 00:45:17 Europe/Istanbul] PHP Warning:  Undefined variable $status in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php on line 77
+[12-Apr-2025 00:45:21 Europe/Istanbul] PHP Warning:  Undefined variable $status in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php on line 51
+[12-Apr-2025 00:45:21 Europe/Istanbul] PHP Warning:  Undefined variable $status in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php on line 77
+[12-Apr-2025 00:47:22 Europe/Istanbul] PHP Warning:  Undefined variable $status in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php on line 51
+[12-Apr-2025 00:47:22 Europe/Istanbul] PHP Warning:  Undefined variable $status in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php on line 77
+[12-Apr-2025 00:49:08 Europe/Istanbul] PHP Warning:  Undefined variable $status in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php on line 51
+[12-Apr-2025 00:49:08 Europe/Istanbul] PHP Warning:  Undefined variable $status in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php on line 77
+[12-Apr-2025 00:54:47 Europe/Istanbul] PHP Warning:  Undefined variable $status in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php on line 51
+[12-Apr-2025 00:54:47 Europe/Istanbul] PHP Warning:  Undefined variable $status in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php on line 77
+[12-Apr-2025 00:56:36 Europe/Istanbul] PHP Warning:  Undefined variable $status in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php on line 51
+[12-Apr-2025 00:56:36 Europe/Istanbul] PHP Warning:  Undefined variable $status in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php on line 77
+[12-Apr-2025 00:56:55 Europe/Istanbul] PHP Warning:  Undefined variable $status in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php on line 51
+[12-Apr-2025 00:56:55 Europe/Istanbul] PHP Warning:  Undefined variable $status in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php on line 77
+[12-Apr-2025 01:01:23 Europe/Istanbul] PHP Warning:  Undefined variable $status in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php on line 51
+[12-Apr-2025 01:01:23 Europe/Istanbul] PHP Warning:  Undefined variable $status in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php on line 77
+[12-Apr-2025 01:01:50 Europe/Istanbul] PHP Warning:  Undefined variable $status in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php on line 51
+[12-Apr-2025 01:01:50 Europe/Istanbul] PHP Warning:  Undefined variable $status in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php on line 77
+[12-Apr-2025 01:02:24 Europe/Istanbul] PHP Warning:  Undefined variable $status in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php on line 51
+[12-Apr-2025 01:02:24 Europe/Istanbul] PHP Warning:  Undefined variable $status in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php on line 77
+[12-Apr-2025 01:02:45 Europe/Istanbul] PHP Warning:  Undefined variable $status in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php on line 51
+[12-Apr-2025 01:02:45 Europe/Istanbul] PHP Warning:  Undefined variable $status in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php on line 77
+[12-Apr-2025 01:03:53 Europe/Istanbul] PHP Warning:  Undefined variable $status in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php on line 51
+[12-Apr-2025 01:03:53 Europe/Istanbul] PHP Warning:  Undefined variable $status in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php on line 77
+[12-Apr-2025 01:05:00 Europe/Istanbul] PHP Warning:  Undefined variable $status in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php on line 51
+[12-Apr-2025 01:05:00 Europe/Istanbul] PHP Warning:  Undefined variable $status in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php on line 77
+[12-Apr-2025 01:05:09 Europe/Istanbul] PHP Warning:  Undefined variable $status in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php on line 51
+[12-Apr-2025 01:05:09 Europe/Istanbul] PHP Warning:  Undefined variable $status in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php on line 77
+[12-Apr-2025 01:05:19 Europe/Istanbul] PHP Warning:  Undefined variable $status in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php on line 51
+[12-Apr-2025 01:05:19 Europe/Istanbul] PHP Warning:  Undefined variable $status in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php on line 77
+[12-Apr-2025 01:05:31 Europe/Istanbul] PHP Warning:  Undefined variable $status in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php on line 51
+[12-Apr-2025 01:05:31 Europe/Istanbul] PHP Warning:  Undefined variable $status in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php on line 77
+[12-Apr-2025 01:06:18 Europe/Istanbul] PHP Warning:  Undefined variable $status in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php on line 51
+[12-Apr-2025 01:06:18 Europe/Istanbul] PHP Warning:  Undefined variable $status in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php on line 77
+[12-Apr-2025 01:06:36 Europe/Istanbul] PHP Warning:  Undefined variable $status in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php on line 51
+[12-Apr-2025 01:06:36 Europe/Istanbul] PHP Warning:  Undefined variable $status in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php on line 77
+[12-Apr-2025 01:09:28 Europe/Istanbul] PHP Warning:  Undefined variable $status in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php on line 51
+[12-Apr-2025 01:09:28 Europe/Istanbul] PHP Warning:  Undefined variable $status in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php on line 77
+[12-Apr-2025 01:11:18 Europe/Istanbul] PHP Warning:  Undefined variable $status in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php on line 51
+[12-Apr-2025 01:11:18 Europe/Istanbul] PHP Warning:  Undefined variable $status in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php on line 77
+[12-Apr-2025 01:11:23 Europe/Istanbul] PHP Warning:  Undefined variable $status in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php on line 51
+[12-Apr-2025 01:11:23 Europe/Istanbul] PHP Warning:  Undefined variable $status in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php on line 77
+[12-Apr-2025 01:12:05 Europe/Istanbul] PHP Warning:  Undefined variable $status in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php on line 51
+[12-Apr-2025 01:12:05 Europe/Istanbul] PHP Warning:  Undefined variable $status in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php on line 77
+[12-Apr-2025 01:13:20 Europe/Istanbul] PHP Warning:  Undefined variable $status in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php on line 51
+[12-Apr-2025 01:13:20 Europe/Istanbul] PHP Warning:  Undefined variable $status in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php on line 77
+[12-Apr-2025 01:22:40 Europe/Istanbul] PHP Warning:  Undefined variable $status in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php on line 51
+[12-Apr-2025 01:22:40 Europe/Istanbul] PHP Warning:  Undefined variable $status in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php on line 77
+[12-Apr-2025 01:39:07 Europe/Istanbul] PHP Warning:  Undefined variable $status in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php on line 51
+[12-Apr-2025 01:39:07 Europe/Istanbul] PHP Warning:  Undefined variable $status in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php on line 77
+[12-Apr-2025 01:39:23 Europe/Istanbul] PHP Warning:  Undefined variable $status in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php on line 51
+[12-Apr-2025 01:39:23 Europe/Istanbul] PHP Warning:  Undefined variable $status in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php on line 77
+[12-Apr-2025 01:39:47 Europe/Istanbul] PHP Warning:  Undefined variable $status in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php on line 51
+[12-Apr-2025 01:39:47 Europe/Istanbul] PHP Warning:  Undefined variable $status in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php on line 77
+[12-Apr-2025 01:39:58 Europe/Istanbul] PHP Warning:  Undefined variable $status in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php on line 51
+[12-Apr-2025 01:39:58 Europe/Istanbul] PHP Warning:  Undefined variable $status in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php on line 77
+[12-Apr-2025 16:44:18 Europe/Istanbul] PHP Warning:  Undefined variable $status in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php on line 51
+[12-Apr-2025 16:44:18 Europe/Istanbul] PHP Warning:  Undefined variable $status in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php on line 77
+[12-Apr-2025 16:47:47 Europe/Istanbul] PHP Warning:  Undefined variable $status in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php on line 51
+[12-Apr-2025 16:47:47 Europe/Istanbul] PHP Warning:  Undefined variable $status in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php on line 51
+[12-Apr-2025 16:47:47 Europe/Istanbul] PHP Warning:  Undefined variable $status in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php on line 51
+[12-Apr-2025 16:47:47 Europe/Istanbul] PHP Warning:  Undefined variable $status in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php on line 51
+[12-Apr-2025 16:47:47 Europe/Istanbul] PHP Warning:  Undefined variable $status in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php on line 77
+[12-Apr-2025 17:37:04 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'crabpubcafe_qr_menu.garson_calls' doesn't exist in /home/crabpubcafe/public_html/Qr-Menu/mutfak.php:16
+Stack trace:
+#0 /home/crabpubcafe/public_html/Qr-Menu/mutfak.php(16): PDO->query('SELECT * FROM g...')
+#1 {main}
+  thrown in /home/crabpubcafe/public_html/Qr-Menu/mutfak.php on line 16
+[12-Apr-2025 17:59:11 Europe/Istanbul] PHP Warning:  Undefined variable $status in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php on line 51
+[12-Apr-2025 17:59:11 Europe/Istanbul] PHP Warning:  Undefined variable $status in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php on line 51
+[12-Apr-2025 17:59:11 Europe/Istanbul] PHP Warning:  Undefined variable $status in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php on line 77
+[13-Apr-2025 08:56:21 Europe/Istanbul] PHP Warning:  Undefined variable $status in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php on line 51
+[13-Apr-2025 08:56:21 Europe/Istanbul] PHP Warning:  Undefined variable $status in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php on line 77
+[13-Apr-2025 08:56:25 Europe/Istanbul] PHP Warning:  Undefined variable $status in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php on line 51
+[13-Apr-2025 08:56:25 Europe/Istanbul] PHP Warning:  Undefined variable $status in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php on line 77
+[13-Apr-2025 09:10:58 Europe/Istanbul] PHP Warning:  Undefined variable $status in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php on line 51
+[13-Apr-2025 09:10:58 Europe/Istanbul] PHP Warning:  Undefined variable $status in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php on line 77
+[13-Apr-2025 09:16:26 Europe/Istanbul] PHP Warning:  Undefined variable $status in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php on line 51
+[13-Apr-2025 09:16:26 Europe/Istanbul] PHP Warning:  Undefined variable $status in /home/crabpubcafe/public_html/Qr-Menu/siparis_ver.php on line 77
